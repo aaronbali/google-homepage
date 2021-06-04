@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+}
+
+.logo {
+    height: 25%;
+    display: block;
+    margin: 0 auto;
+}
+
+img {
+    top: 50%;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+}
+
+.search_bar {
+    display: block;
+    margin: 0 auto;
+}
+
+input {
+    width: 60%;
+
+}
+
+button {
+    text-align: center;
+}
+
+.search_buttons {
+    background-color: red;
+
+}
